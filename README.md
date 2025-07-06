@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Fjona 👋
 
-<!--
-**fjonabushi/fjonabushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 **Data Scientist @ EarthCam | PyTorch, Computer Vision, ML Pipelines**
 
-Here are some ideas to get you started:
+I build machine learning models and interactive dashboards to extract meaningful insights from complex data. My interests lie in **deep learning, computer vision, and building impactful ML tools**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Working on air quality monitoring & CV models
+- 🛠️ Python, PyTorch, SQL, Streamlit, Flask
+- 📫 [LinkedIn](https://www.linkedin.com/in/fjona-h-84213a190) | [Email](mailto:fiona725f@gmail.com)
+
+## 🚀 Featured Projects
+- 🌿 **Air Quality Dashboard** – [Repo](https://github.com/fjonabushi/air-quality-dashboard) *(update link to your actual repo)*
+- 🤖 **Convolutional Neural Network for Cell Image Classification** – [Repo](https://github.com/fjonabushi/ConvolutionalNeuralNetwork)
+
+
+---
+
+*Always exploring and building with curiosity.*
