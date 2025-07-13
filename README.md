@@ -9,7 +9,7 @@ I build machine learning models and interactive dashboards to extract meaningful
 - 📫 [LinkedIn](https://www.linkedin.com/in/fjona-h-84213a190) | [Email](mailto:fiona725f@gmail.com)
 
 ## 🚀 Featured Projects
-- 🌿 **Air Quality Dashboard** – [Repo](https://github.com/fjonabushi/air-quality-dashboard) *(update link to your actual repo)*
+- 🌿 **Air Quality Dashboard** – [Repo](https://github.com/fjonabushi/air-quality-dashboard) 
 - 🤖 **Convolutional Neural Network for Cell Image Classification** – [Repo](https://github.com/fjonabushi/ConvolutionalNeuralNetwork)
 
 
